@@ -12,7 +12,7 @@ This project is a web application that uses AI to suggest creative and relevant 
 
 - Frontend: ReactJS with Vite
 - Backend: Node.js with Express
-- AI Models: CopilotKit or ChatGPT
+- AI Models: CopilotKit
 
 **Installation and Usage:**
 
@@ -47,7 +47,7 @@ This project is a web application that uses AI to suggest creative and relevant 
 
 **Additional Notes:**
 
-- Replace `YOUR_COPILOTKIT_API_KEY` or `YOUR_CHATGPT_API_KEY` in the `server.js` file with your actual API key.
+- Replace `YOUR_COPILOTKIT_API_KEY` in the `server.js` file with your actual API key.
 - Consider adding a video demo showcasing the app's functionality for better understanding.
 
 **Contributing:**
